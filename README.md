@@ -1,1 +1,2 @@
-# Todo-List-App-Vanilla-JavaScript-
+# Todo List App
+Made with HTML, CSS and Vanilla JavaScript
